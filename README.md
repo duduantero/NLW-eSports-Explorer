@@ -6,10 +6,10 @@
 
 Projeto construído no evento Next Level Week da Rocketseat.
 
-[Clique](https://duduantero.github.io/NLW-eSports-Explorer/) aqui para acessar
+:link: [Clique aqui para acessar](https://duduantero.github.io/NLW-eSports-Explorer/)
 
 
-##Tecnologias
+🛠##Tecnologias
     *HTML
     *CSS
     *Git e GitHub
